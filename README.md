@@ -14,15 +14,18 @@ Here are some ideas to get you started:
   Hello, I'm Divya
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25mZ3FqZjI4aHdwM3pqeG1ibTVhcnBxajd4bjdyYmxqazVzOHB0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
 </div>
+
 <div id="badges" align="center">
   <div>
     <a href="https://www.linkedin.com/in/divya-pulivarthi/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" alt="linkedin badge" /></a>
     <a href="https://leetcode.com/u/divyap09/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width="100" alt="linkedin badge" /></a>
     <a href="mailto:divyapulivarthi09@gmail.com" style="text-decoration:none"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" alt="mail" height="25"/></a>
   </div>
+  
   <div>
     <img src="https://komarev.com/ghpvc/?username=divyap09&label=Profile%20views&color=0e75b6&style=flat" alt="divyap09" />
   </div>
@@ -38,6 +41,7 @@ Here are some ideas to get you started:
       <li>My master's thesis focuses on Scalable Blockchain, with a deep dive into HyperLedger Fabric</li>
       <li>I'm passionate about writing and learning code.</p></li>
     </ul>
+</p>
     
 </section>
 

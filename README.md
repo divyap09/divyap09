@@ -48,11 +48,13 @@ Here are some ideas to get you started:
 ### Languages
 <section id="lang_tools">
 
-  <div>
-    <!--<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; -->
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+  ![C](https://img.shields.io/badge/-C-000?&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+    <!--<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-  </div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp; -->
 </section>
 
 
@@ -72,6 +74,7 @@ Here are some ideas to get you started:
 <div>
  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> &nbsp;
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp;
+
 </div>
 
 ### DevOps

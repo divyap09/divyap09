@@ -31,12 +31,11 @@ Here are some ideas to get you started:
 </div>
 
 
-
 ## About me
 <section id="about">
-  <p>I'm currently pursuing my Masters at IISc in Computational and Data Sciences and my master's thesis is centered around Scalable Blockchain, with a detailed exploration of HyperLedger Fabric. <br/> I have a strong passion for coding and writing. My focus areas include Algorithms, Data Structures, and some aspects of Data Analysis.</p>
+  <p>I'm currently pursuing my Masters at the Indian Institute of Science (IISc) in Computational and Data Sciences (CDS) and my master's thesis is centered around Scalable Blockchain, with a detailed exploration of HyperLedger Fabric. <br/> I have a strong passion for coding and writing. My focus areas include Algorithms, Data Structures, and some aspects of Data Analysis.</p>
 
-  ⚡ Fun fact: I enjoy listening to music by EXO.
+  ⚡ Fun fact: I love developing small web applications using HTML, CSS and JavaScript in my free time. And also, I enjoy listening to music by EXO.
     
 </section>
 

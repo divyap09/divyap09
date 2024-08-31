@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 ## About me
 <section id="about">
   <p>I'm currently pursuing my Masters at IISc in Computational and Data Sciences and my master's thesis is centered around Scalable Blockchain, with a detailed exploration of HyperLedger Fabric. <br/> I have a strong passion for coding and writing. My focus areas include Algorithms, Data Structures, and some aspects of Data Analysis.</p>
+
+  ⚡ Fun fact: I enjoy listening to music by EXO.
     
 </section>
 

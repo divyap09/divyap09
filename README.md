@@ -92,8 +92,22 @@ Here are some ideas to get you started:
 
 
 
-## GitHub Stats
+## Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyap09&show_icons=true&locale=en&layout=compact" alt="divyap09" />
+  Github: <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyap09&show_icons=true&locale=en&layout=compact" alt="divyap09-github" /> <br/>
+
+  <br/>
+  Leetcode: <br/>
+  <img src="https://leetcode.card.workers.dev/divyap09?theme=default&font=&extension=null" alt="divyap09-leetcode" width="300" />
 </div>
+
+
+
+
+
+
+
+
+
 

@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 <div id="badges" align="center">
   <div>
-    <a href="https://linkedin.com/in/divya-pulivarthi" target="_blank"><img src="https://img.shields.io/badge/-Divya%20Pulivarthi-0077B5?style=flat&logo=Linkedin&logoColor=white" width="125" height="25" alt="linkedin badge" /></a>
+    <a href="https://linkedin.com/in/divya-pulivarthi" target="_blank"><img src="https://img.shields.io/badge/-Divya%20Pulivarthi-0077B5?style=flat&logo=Linkedin&logoColor=white" width="135" height="25" alt="linkedin badge" /></a>
     <a href="https://leetcode.com/u/divyap09" target="_blank">         <img src="https://img.shields.io/badge/-divyap09-FFA116?style=flat&logo=LeetCode&logoColor=black" width="95" height="25" alt="leetcode badge" /></a>
     <a href="mailto:divyapulivarthi09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" width="80" alt="mail" height="25"/></a>
   </div>
   
   <div>
-    <img src="https://komarev.com/ghpvc/?username=divyap09&label=Profile%20views&color=0e75b6&style=flat" alt="divyap09" />
+    <img src="https://komarev.com/ghpvc/?username=divyap09&label=Profile%20views&color=0e75b6&style=flat" alt="divyap09" height="25" />
   </div>
 </div>
 

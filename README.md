@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <div id="badges" align="center">
   <div>
-    <a href="https://www.linkedin.com/in/divya-pulivarthi/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" alt="linkedin badge" /></a>
-    <a href="https://leetcode.com/u/divyap09/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width="100" alt="linkedin badge" /></a>
-    <a href="mailto:divyapulivarthi09@gmail.com" style="text-decoration:none"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" alt="mail" height="25"/></a>
+    <a href="https://www.linkedin.com/in/divya-pulivarthi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" alt="linkedin badge" /></a>
+    <a href="https://leetcode.com/u/divyap09/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width="100" alt="linkedin badge" /></a>
+    <a href="mailto:divyapulivarthi09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" alt="mail" height="25"/></a>
   </div>
   
   <div>

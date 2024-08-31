@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 <section id="about">
   <p>
     <ul>
-      <li>Currently pursuing my Masters at IISc in Computational and Data Sciences</li>
-      <li>My master's thesis focuses on Scalable Blockchain, with a deep dive into HyperLedger Fabric</li>
-      <li>I'm passionate about writing and learning code.</p></li>
+      <li>Currently pursuing my Masters at IISc in Computational and Data Sciences.</li>
+      <li>My master's thesis focuses on Scalable Blockchain, with a deep dive into HyperLedger Fabric.</li>
+      <li>I'm passionate about writing and learning code.</li>
     </ul>
 </p>
     

@@ -59,27 +59,32 @@ Here are some ideas to get you started:
 
 
 ### AI/ ML
+<img src="https://img.shields.io/badge/-Numpy-fff?&logo=Numpy&logoColor=00599C" alt="Numpy">&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-fff?&logo=Pandas&logoColor=00599C" alt="Pandas">&nbsp;
 <div>
-  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="Numpy" width="50" height="40">&nbsp;
+  <!--<img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="Numpy" width="50" height="40">&nbsp;
   <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas Logo" width="50" height="40">&nbsp;
-</div>
+  -->
   <!--<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
  <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
  <a href="#" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
   -->
-  
-### Databases
-<div>
- <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> &nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp;
-
 </div>
 
 ### DevOps
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-fff?&logo=Docker&logoColor=00599C" alt="Docker">&nbsp;
+  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>&nbsp; -->
+</div>
+
+### Databases
+<div>
+  <img src="https://img.shields.io/badge/-MySQL-fff?&logo=MySQL&logoColor=00599C" alt="MySQL">&nbsp;
+  <img src="https://img.shields.io/badge/-MSSQL-fff?&logo=SQL&logoColor=00599C" alt="MSSQL">&nbsp;
+ <!--<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> &nbsp; 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp; -->
 </div>
 
 
@@ -88,5 +93,7 @@ Here are some ideas to get you started:
 
 
 ## GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyap09&show_icons=true&locale=en&layout=compact" alt="divyap09" /></p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyap09&show_icons=true&locale=en&layout=compact" alt="divyap09" />
+</div>
 

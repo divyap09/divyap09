@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <section id="lang_tools">
 
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python">
+  <img src="https://img.shields.io/badge/-Python-fff?&logo=Python" alt="Python">
   ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
   ![C](https://img.shields.io/badge/-C-000?&logo=C)
   ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)

@@ -46,13 +46,12 @@ Here are some ideas to get you started:
 <!-- icons from https://github.com/devicons/devicon/tree/master/icons -->
 ## Skills
 ### Languages
-<section id="lang_tools">
 
-  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-  <img src="https://img.shields.io/badge/-Python-fff?&logo=Python" alt="Python">
-  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-  ![C](https://img.shields.io/badge/-C-000?&logo=C)
-  ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+<section id="lang_tools">
+  <img src="https://img.shields.io/badge/-Python-fff?&logo=Python" alt="Python">&nbsp;
+  <img src="https://img.shields.io/badge/-Java-fff?&logo=Java" alt="Java">&nbsp;
+  <img src="https://img.shields.io/badge/-C-fff?&logo=C" alt="C">&nbsp;
+  <img src="https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C" alt="C++">&nbsp;
     <!--<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp; -->
@@ -61,8 +60,8 @@ Here are some ideas to get you started:
 
 ### AI/ ML
 <div>
-  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="50" height="40">&nbsp;
-  <img alt="Pandas Logo" src="https://pandas.pydata.org/static/img/pandas.svg" width="50" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="Numpy" width="50" height="40">&nbsp;
+  <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas Logo" width="50" height="40">&nbsp;
 </div>
   <!--<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
  <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>

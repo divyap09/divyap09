@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <div id="badges" align="center">
   <div>
-    <a href="https://www.linkedin.com/in/divya-pulivarthi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" alt="linkedin badge" /></a>
-    <a href="https://leetcode.com/u/divyap09/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width="100" alt="linkedin badge" /></a>
-    <a href="mailto:divyapulivarthi09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" alt="mail" height="25"/></a>
+    <a href="https://linkedin.com/in/divya-pulivarthi" target="_blank"><img src="https://img.shields.io/badge/-Divya%20Pulivarthi-0077B5?style=flat&logo=Linkedin&logoColor=white" width="125" height="25" alt="linkedin badge" /></a>
+    <a href="https://leetcode.com/u/divyap09" target="_blank">         <img src="https://img.shields.io/badge/-divyap09-FFA116?style=flat&logo=LeetCode&logoColor=black" width="95" height="25" alt="leetcode badge" /></a>
+    <a href="mailto:divyapulivarthi09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" width="80" alt="mail" height="25"/></a>
   </div>
   
   <div>
@@ -44,17 +44,16 @@ Here are some ideas to get you started:
 
 <!--Tools & Techologies -->
 <!-- icons from https://github.com/devicons/devicon/tree/master/icons -->
-## Skills
-### Languages
+## Tech Stack
 
-<section id="lang_tools">
+<section id="tech_stack">
   <img src="https://img.shields.io/badge/-Python-fff?&logo=Python" alt="Python">&nbsp;
   <img src="https://img.shields.io/badge/-Java-fff?&logo=Java" alt="Java">&nbsp;
   <img src="https://img.shields.io/badge/-C-fff?&logo=C" alt="C">&nbsp;
   <img src="https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C" alt="C++">&nbsp;
-    <!--<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp; -->
+  <img src="https://img.shields.io/badge/-MySQL-fff?&logo=MySQL&logoColor=00599C" alt="MySQL">&nbsp;
+  <img src="https://img.shields.io/badge/-MSSQL-fff?&logo=SQL&logoColor=00599C" alt="MSSQL">&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-fff?&logo=Docker&logoColor=00599C" alt="Docker">&nbsp;
 </section>
 
 
@@ -62,6 +61,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Numpy-fff?&logo=Numpy&logoColor=00599C" alt="Numpy">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-fff?&logo=Pandas&logoColor=00599C" alt="Pandas">&nbsp;
 <div>
+  <!--<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp; -->
   <!--<img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="Numpy" width="50" height="40">&nbsp;
   <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas Logo" width="50" height="40">&nbsp;
   -->
@@ -71,18 +73,9 @@ Here are some ideas to get you started:
  <a href="#" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
   -->
-</div>
 
-### DevOps
-<div>
-  <img src="https://img.shields.io/badge/-Docker-fff?&logo=Docker&logoColor=00599C" alt="Docker">&nbsp;
   <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>&nbsp; -->
-</div>
 
-### Databases
-<div>
-  <img src="https://img.shields.io/badge/-MySQL-fff?&logo=MySQL&logoColor=00599C" alt="MySQL">&nbsp;
-  <img src="https://img.shields.io/badge/-MSSQL-fff?&logo=SQL&logoColor=00599C" alt="MSSQL">&nbsp;
  <!--<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> &nbsp; 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp; -->
 </div>

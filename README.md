@@ -31,41 +31,38 @@ Here are some ideas to get you started:
 </div>
 
 
+<!-- About section-->
 ## About me
 <section id="about">
   <ul>
     <li>👩‍🎓 I'm currently pursuing my Masters at the Indian Institute of Science (IISc) in Computational and Data Sciences (CDS).</li>
     <li>🔎 My Master's thesis is centered around Scalable Blockchain, with a detailed exploration of HyperLedger Fabric.</li>
-    
-    <!--
-    <li>🌱 I’m currently exploring Data Science and optimizations of the problems. --issue
-      <li>👩🏻‍💻 I have a strong passion for coding and exploring different coding techniques to improve my skills.</li>
+    <li>🌱 I’m currently exploring Data Science and optimizations of the problems.</li>
+    <li>👩🏻‍💻 I have a strong passion for coding and exploring different coding techniques to improve my skills.</li>
     <li>My focus areas include Algorithms, Data Structures.</li>
     <li>⚡ Fun fact: I love developing small web applications using HTML, CSS and JavaScript in my free time.</li>
-      -->
   </ul>
 </section>
 
-<!-- About section-->
 
 <!--Tools & Techologies -->
 <!-- icons from https://github.com/devicons/devicon/tree/master/icons -->
 ## Tech Stack
 
 <section id="tech_stack">
-  <img src="https://img.shields.io/badge/-Python-fff?&logo=Python" alt="Python">&nbsp;
-  <img src="https://img.shields.io/badge/-Java-fff?&logo=Java" alt="Java">&nbsp;
-  <img src="https://img.shields.io/badge/-C-fff?&logo=C" alt="C">&nbsp;
-  <img src="https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C" alt="C++">&nbsp;
-  <img src="https://img.shields.io/badge/-MySQL-fff?&logo=MySQL&logoColor=00599C" alt="MySQL">&nbsp;
-  <img src="https://img.shields.io/badge/-MSSQL-fff?&logo=SQL&logoColor=00599C" alt="MSSQL">&nbsp;
-  <img src="https://img.shields.io/badge/-Docker-fff?&logo=Docker&logoColor=00599C" alt="Docker">&nbsp;
+  <img src="https://img.shields.io/badge/-Python-fff?&logo=Python" alt="Python" height="25">&nbsp;
+  <img src="https://img.shields.io/badge/-Java-fff?&logo=Java" alt="Java" height="25">&nbsp;
+  <img src="https://img.shields.io/badge/-C-fff?&logo=C" alt="C" height="25">&nbsp;
+  <img src="https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C" alt="C++" height="25">&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-fff?&logo=MySQL&logoColor=00599C" alt="MySQL" height="25">&nbsp;
+  <img src="https://img.shields.io/badge/-MSSQL-fff?&logo=SQL&logoColor=00599C" alt="MSSQL" height="25">&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-fff?&logo=Docker&logoColor=00599C" alt="Docker" height="25">&nbsp;
 </section>
 
 
 ### AI/ ML
-<img src="https://img.shields.io/badge/-Numpy-fff?&logo=Numpy&logoColor=00599C" alt="Numpy">&nbsp;
-<img src="https://img.shields.io/badge/-Pandas-fff?&logo=Pandas&logoColor=00599C" alt="Pandas">&nbsp;
+<img src="https://img.shields.io/badge/-Numpy-fff?&logo=Numpy&logoColor=00599C" alt="Numpy" height="25">&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-fff?&logo=Pandas&logoColor=00599C" alt="Pandas" height="25">&nbsp;
 <div>
   <!--<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 </h1>
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25mZ3FqZjI4aHdwM3pqeG1ibTVhcnBxajd4bjdyYmxqazVzOHB0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25mZ3FqZjI4aHdwM3pqeG1ibTVhcnBxajd4bjdyYmxqazVzOHB0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" />
 </div>
 
 <div id="badges" align="center">
@@ -33,10 +33,14 @@ Here are some ideas to get you started:
 
 ## About me
 <section id="about">
-  <p>I'm currently pursuing my Masters at the Indian Institute of Science (IISc) in Computational and Data Sciences (CDS) and my master's thesis is centered around Scalable Blockchain, with a detailed exploration of HyperLedger Fabric. <br/> I have a strong passion for coding and writing. My focus areas include Algorithms, Data Structures, and some aspects of Data Analysis.</p>
-
-  ⚡ Fun fact: I love developing small web applications using HTML, CSS and JavaScript in my free time. And also, I enjoy listening to music by EXO.
-    
+  <ul>
+    <li> 👩‍🎓 I'm currently pursuing my Masters at the Indian Institute of Science (IISc) in Computational and Data Sciences (CDS).</li>
+    <li> 🔎 My Master's thesis is centered around Scalable Blockchain, with a detailed exploration of HyperLedger Fabric.</li>
+    <li> 🌱 I’m currently exploring Data Science and optimizations of the problems.
+    <li> 👩🏻‍💻 I have a strong passion for coding and exploring different coding techniques to improve my skills.</li>
+    <li> My focus areas include Algorithms, Data Structures.</li>
+    <li> ⚡ Fun fact: I love developing small web applications using HTML, CSS and JavaScript in my free time. </li>
+  </ul>
 </section>
 
 <!-- About section-->
@@ -84,7 +88,7 @@ Here are some ideas to get you started:
 
 
 
-## Stats
+## Stats 📊
 <div>
   Github: <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyap09&show_icons=true&locale=en&layout=compact" alt="divyap09-github" /> <br/>

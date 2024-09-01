@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 <section id="about">
   <ul>
     <li>👩‍🎓 I'm currently pursuing my Masters at the Indian Institute of Science (IISc) in Computational and Data Sciences (CDS).</li>
+    <li>🔎 My Master's thesis is centered around Scalable Blockchain, with a detailed exploration of HyperLedger Fabric.</li>
+    <li>🌱 I’m currently exploring Data Science and optimizations of the problems.
   </ul>
-  
 </section>
 
 <!-- About section-->

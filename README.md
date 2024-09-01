@@ -40,8 +40,6 @@ Here are some ideas to get you started:
     <li>👩🏻‍💻 I have a strong passion for coding and exploring different coding techniques to improve my skills.</li>
     <li>My focus areas include Algorithms, Data Structures.</li>
     <li>⚡ Fun fact: I love developing small web applications using HTML, CSS and JavaScript in my free time.</li>
-    <li>temp</li>
-    
   </ul>
 </section>
 

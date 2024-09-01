@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div id="badges" align="center">
   <div>
     <a href="https://linkedin.com/in/divya-pulivarthi" target="_blank"><img src="https://img.shields.io/badge/-Divya%20Pulivarthi-0077B5?style=flat&logo=Linkedin&logoColor=white" width="135" height="25" alt="linkedin badge" /></a>
-    <a href="https://leetcode.com/u/divyap09" target="_blank">         <img src="https://img.shields.io/badge/-divyap09-FFA116?style=flat&logo=LeetCode&logoColor=black" width="95" height="25" alt="leetcode badge" /></a>
+    <a href="https://leetcode.com/u/divyap09" target="_blank"><img src="https://img.shields.io/badge/-divyap09-FFA116?style=flat&logo=LeetCode&logoColor=black" width="95" height="25" alt="leetcode badge" /></a>
     <a href="mailto:divyapulivarthi09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" width="80" alt="mail" height="25"/></a>
   </div>
   
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
     <li> 👩🏻‍💻 I have a strong passion for coding and exploring different coding techniques to improve my skills.</li>
     <li> My focus areas include Algorithms, Data Structures.</li>
     <li> ⚡ Fun fact: I love developing small web applications using HTML, CSS and JavaScript in my free time. </li>
+    
   </ul>
 </section>
 

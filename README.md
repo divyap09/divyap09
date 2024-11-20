@@ -98,7 +98,10 @@ Here are some ideas to get you started:
   <img src="https://leetcode.card.workers.dev/divyap09?theme=default&font=&extension=null" alt="divyap09-leetcode" width="300" />
 </div>
 
-
+## Related links
+<ul>
+  <li> HiPC SRS - Paper accepted: <a href="https://www.hipc.org/student-research-symposium/">https://www.hipc.org/student-research-symposium/</li>
+</ul>
 
 
 

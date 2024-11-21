@@ -100,8 +100,7 @@ Here are some ideas to get you started:
 
 ## Related links
 <ul>
-  <li> HiPC SRS - Paper accepted: <a href="https://www.hipc.org/student-research-symposium/">https://www.hipc.org/student-research-symposium/
-  </li>
+  <li> HiPC SRS - Paper accepted: <a href="https://www.hipc.org/student-research-symposium/">https://www.hipc.org/student-research-symposium/</a></li>
 </ul>
 
 

@@ -60,9 +60,10 @@ Here are some ideas to get you started:
 </section>
 
 
-### AI/ ML
+### AI/ ML/ Frameworks
 <img src="https://img.shields.io/badge/-Numpy-fff?&logo=Numpy&logoColor=00599C" alt="Numpy" height="25">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-fff?&logo=Pandas&logoColor=00599C" alt="Pandas" height="25">&nbsp;
+<img src="https://img.shields.io/badge/-SimPy-fff?&logo=SimPy&logoColor=00599C" alt="SimPy" height="25">&nbsp;
 <div>
   <!--<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;

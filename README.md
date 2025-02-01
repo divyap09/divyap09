@@ -25,9 +25,10 @@ Here are some ideas to get you started:
     <a href="mailto:divyapulivarthi09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" width="80" alt="mail" height="25"/></a>
   </div>
   
-  <div>
+  <!--<div>
     <img src="https://komarev.com/ghpvc/?username=divyap09&label=Profile%20views&color=0e75b6&style=flat" alt="divyap09" height="25" />
   </div>
+  -->
 </div>
 
 

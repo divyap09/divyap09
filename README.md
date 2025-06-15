@@ -86,10 +86,6 @@ Here are some ideas to get you started:
 </div>
 
 
-
-
-
-
 ## Stats 📊
 <div>
   Github: <br/>
@@ -105,15 +101,9 @@ Here are some ideas to get you started:
   <img src="https://leetcard.jacoblin.cool/divyap09?theme=light&font=Titillium%20Web&ext=heatmap" alt="divyap09-leetcode" width="500" />
 </div>
 
+<!--
 ## Related links
 <ul>
   <li> HiPC SRS - Paper accepted: <a href="https://www.hipc.org/student-research-symposium/">https://www.hipc.org/student-research-symposium/</a></li>
 </ul>
-
-
-
-
-
-
-
-
+-->
